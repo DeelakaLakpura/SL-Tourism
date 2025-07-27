@@ -12,7 +12,7 @@ import asyncio
 import concurrent.futures
 import grpc
 import nest_asyncio
-import nest_asyncio
+
 from streamlit.runtime.scriptrunner import get_script_run_ctx
 from streamlit.web.server.websocket_headers import _get_websocket_headers
 # Custom imports
