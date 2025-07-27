@@ -1,0 +1,5 @@
+name,district,province,cuisine,category,price_range,specialties,rating,coordinates,contact,opening_hours
+Ministry of Crab,Colombo,Western,Seafood,Fine Dining,3000-8000,"['Pepper Crab', 'Butter Pepper Garlic Crab', 'Lobster']",4.6,"{'lat': 6.9271, 'lng': 79.8477}",+94115234722,"12:00-15:00, 18:30-23:30"
+The Lagoon,Colombo,Western,International,Fine Dining,2500-6000,"['Fresh Seafood', 'International Cuisine', 'Wine Selection']",4.4,"{'lat': 6.9271, 'lng': 79.8612}",+94112441000,19:00-23:30
+Upali's by Nawaloka,Colombo,Western,Sri Lankan,Local,800-2000,"['Rice & Curry', 'Hoppers', 'Kottu']",4.2,"{'lat': 6.9147, 'lng': 79.8757}",+94112575757,11:00-22:00
+The Hill Club,Nuwara Eliya,Central,Continental,Heritage,1500-3500,"['English Breakfast', 'High Tea', 'Colonial Cuisine']",4.3,"{'lat': 6.9497, 'lng': 80.7891}",+94522222653,07:00-22:00

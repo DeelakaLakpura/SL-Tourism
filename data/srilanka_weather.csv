@@ -1,0 +1,5 @@
+region,season,months,temperature_range,rainfall,humidity,conditions
+Western Province,Dry Season,December-March,24-32°C,Low,70-80%,"Sunny and dry, ideal for beach activities"
+Western Province,Wet Season,April-November,24-30°C,High,80-90%,"Heavy rainfall, especially May and October"
+Central Province,Cool Season,December-February,16-24°C,Moderate,70-80%,"Cool and pleasant, perfect for hill country"
+Hill Country,Year Round,All year,10-20°C,Variable,80-90%,"Cool climate, can be misty in mornings"

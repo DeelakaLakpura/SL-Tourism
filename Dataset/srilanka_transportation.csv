@@ -1,0 +1,6 @@
+type,operator,category,routes,contact,booking
+Air,SriLankan Airlines,Domestic,"[{'from': 'Colombo', 'to': 'Jaffna', 'duration': 80, 'price': 12000}]",+94197733000,"Online, Agents"
+Train,Sri Lanka Railways,Scenic,"[{'from': 'Colombo', 'to': 'Kandy', 'duration': 180, 'price': 300}, {'from': 'Kandy', 'to': 'Ella', 'duration': 420, 'price': 400}, {'from': 'Colombo', 'to': 'Galle', 'duration': 150, 'price': 250}]",+94112434215,"Station, Online"
+Bus,SLTB,Public,"[{'from': 'Colombo', 'to': 'Kandy', 'duration': 180, 'price': 150}, {'from': 'Colombo', 'to': 'Galle', 'duration': 120, 'price': 120}]",+94112588979,Cash on board
+Taxi,PickMe,App-based,"[{'coverage': 'Island-wide', 'pricing': 'Meter-based'}]",App,Mobile App
+Tuk-tuk,Local,Traditional,"[{'coverage': 'Short distances', 'pricing': 'Negotiable'}]",Street hail,Direct

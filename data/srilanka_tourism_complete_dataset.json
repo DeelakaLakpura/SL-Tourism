@@ -1,0 +1,988 @@
+{
+  "destinations": [
+    {
+      "name": "Sigiriya Rock Fortress",
+      "district": "Matale",
+      "province": "Central",
+      "type": "UNESCO World Heritage Site",
+      "category": "Historical",
+      "description": "Ancient rock fortress and palace ruins with stunning frescoes and gardens",
+      "best_time": "December to April",
+      "duration": "3-4 hours",
+      "entrance_fee": 4500,
+      "coordinates": {
+        "lat": 7.957,
+        "lng": 80.7603
+      },
+      "activities": [
+        "Climbing",
+        "Photography",
+        "History Tours"
+      ],
+      "nearby_hotels": [
+        "Sigiriya Village Hotel",
+        "Hotel Sigiriya",
+        "Aliya Resort"
+      ],
+      "rating": 4.6,
+      "visitor_count_yearly": 500000
+    },
+    {
+      "name": "Ancient City of Polonnaruwa",
+      "district": "Polonnaruwa",
+      "province": "North Central",
+      "type": "UNESCO World Heritage Site",
+      "category": "Historical",
+      "description": "Medieval capital with well-preserved ruins and Buddhist temples",
+      "best_time": "December to April",
+      "duration": "4-5 hours",
+      "entrance_fee": 3500,
+      "coordinates": {
+        "lat": 7.9403,
+        "lng": 81.0188
+      },
+      "activities": [
+        "Cycling Tours",
+        "Photography",
+        "History Tours"
+      ],
+      "nearby_hotels": [
+        "Hotel Sudu Araliya",
+        "Polonnaruwa Rest House",
+        "The Village Polonnaruwa"
+      ],
+      "rating": 4.4,
+      "visitor_count_yearly": 300000
+    },
+    {
+      "name": "Temple of the Sacred Tooth Relic",
+      "district": "Kandy",
+      "province": "Central",
+      "type": "UNESCO World Heritage Site",
+      "category": "Religious",
+      "description": "Sacred Buddhist temple housing the tooth relic of Buddha",
+      "best_time": "Year round",
+      "duration": "2-3 hours",
+      "entrance_fee": 1500,
+      "coordinates": {
+        "lat": 7.2906,
+        "lng": 80.6337
+      },
+      "activities": [
+        "Religious Tours",
+        "Cultural Shows",
+        "Photography"
+      ],
+      "nearby_hotels": [
+        "The Kandy House",
+        "Earl's Regency Hotel",
+        "Hotel Suisse"
+      ],
+      "rating": 4.5,
+      "visitor_count_yearly": 800000
+    },
+    {
+      "name": "Adam's Peak (Sri Pada)",
+      "district": "Ratnapura",
+      "province": "Sabaragamuwa",
+      "type": "Mountain",
+      "category": "Natural",
+      "description": "Sacred mountain peak famous for pilgrimage and sunrise views",
+      "best_time": "December to May",
+      "duration": "6-8 hours",
+      "entrance_fee": 0,
+      "coordinates": {
+        "lat": 6.8094,
+        "lng": 80.4989
+      },
+      "activities": [
+        "Hiking",
+        "Pilgrimage",
+        "Sunrise Viewing"
+      ],
+      "nearby_hotels": [
+        "White Monkey Guesthouse",
+        "Green House",
+        "Slightly Chilled Guesthouse"
+      ],
+      "rating": 4.7,
+      "visitor_count_yearly": 250000
+    },
+    {
+      "name": "Yala National Park",
+      "district": "Hambantota",
+      "province": "Southern",
+      "type": "National Park",
+      "category": "Wildlife",
+      "description": "Premier wildlife park known for leopards and diverse fauna",
+      "best_time": "February to June",
+      "duration": "Full day",
+      "entrance_fee": 3500,
+      "coordinates": {
+        "lat": 6.3721,
+        "lng": 81.5203
+      },
+      "activities": [
+        "Safari",
+        "Wildlife Photography",
+        "Bird Watching"
+      ],
+      "nearby_hotels": [
+        "Cinnamon Wild Yala",
+        "Jetwing Yala",
+        "Leopard Nest"
+      ],
+      "rating": 4.3,
+      "visitor_count_yearly": 400000
+    },
+    {
+      "name": "Horton Plains National Park",
+      "district": "Nuwara Eliya",
+      "province": "Central",
+      "type": "National Park",
+      "category": "Natural",
+      "description": "High altitude plateau with World's End cliff and Baker's Falls",
+      "best_time": "January to March",
+      "duration": "4-5 hours",
+      "entrance_fee": 2500,
+      "coordinates": {
+        "lat": 6.8069,
+        "lng": 80.8055
+      },
+      "activities": [
+        "Hiking",
+        "Bird Watching",
+        "Photography"
+      ],
+      "nearby_hotels": [
+        "The Grand Hotel",
+        "Jetwing St. Andrews",
+        "Hill Club"
+      ],
+      "rating": 4.4,
+      "visitor_count_yearly": 180000
+    },
+    {
+      "name": "Unawatuna Beach",
+      "district": "Galle",
+      "province": "Southern",
+      "type": "Beach",
+      "category": "Beach",
+      "description": "Crescent-shaped beach perfect for swimming and snorkeling",
+      "best_time": "November to April",
+      "duration": "Full day",
+      "entrance_fee": 0,
+      "coordinates": {
+        "lat": 6.0084,
+        "lng": 80.2497
+      },
+      "activities": [
+        "Swimming",
+        "Snorkeling",
+        "Beach Sports"
+      ],
+      "nearby_hotels": [
+        "Thaproban Beach House",
+        "Unawatuna Beach Resort",
+        "Sun Island Hotel"
+      ],
+      "rating": 4.2,
+      "visitor_count_yearly": 350000
+    },
+    {
+      "name": "Mirissa Beach",
+      "district": "Matara",
+      "province": "Southern",
+      "type": "Beach",
+      "category": "Beach",
+      "description": "Famous for whale watching and beautiful sunsets",
+      "best_time": "November to April",
+      "duration": "Full day",
+      "entrance_fee": 0,
+      "coordinates": {
+        "lat": 5.9481,
+        "lng": 80.4586
+      },
+      "activities": [
+        "Whale Watching",
+        "Surfing",
+        "Beach Relaxation"
+      ],
+      "nearby_hotels": [
+        "Mirissa Hills",
+        "Cape Weligama",
+        "Paradise Beach Club"
+      ],
+      "rating": 4.3,
+      "visitor_count_yearly": 280000
+    },
+    {
+      "name": "Galle Fort",
+      "district": "Galle",
+      "province": "Southern",
+      "type": "UNESCO World Heritage Site",
+      "category": "Historical",
+      "description": "Dutch colonial fort with ramparts and historic buildings",
+      "best_time": "Year round",
+      "duration": "3-4 hours",
+      "entrance_fee": 0,
+      "coordinates": {
+        "lat": 6.0261,
+        "lng": 80.2168
+      },
+      "activities": [
+        "Walking Tours",
+        "Shopping",
+        "Photography"
+      ],
+      "nearby_hotels": [
+        "Amangalla",
+        "Fort Printers",
+        "Galle Heritage Villa"
+      ],
+      "rating": 4.5,
+      "visitor_count_yearly": 600000
+    },
+    {
+      "name": "Dambulla Cave Temple",
+      "district": "Matale",
+      "province": "Central",
+      "type": "UNESCO World Heritage Site",
+      "category": "Religious",
+      "description": "Cave temple complex with ancient Buddhist murals and statues",
+      "best_time": "Year round",
+      "duration": "2-3 hours",
+      "entrance_fee": 1500,
+      "coordinates": {
+        "lat": 7.8567,
+        "lng": 80.6487
+      },
+      "activities": [
+        "Temple Tours",
+        "Photography",
+        "Meditation"
+      ],
+      "nearby_hotels": [
+        "Amaya Lake",
+        "Heritance Kandalama",
+        "Pelwehera Village Resort"
+      ],
+      "rating": 4.4,
+      "visitor_count_yearly": 400000
+    },
+    {
+      "name": "Ella Rock",
+      "district": "Badulla",
+      "province": "Uva",
+      "type": "Mountain",
+      "category": "Natural",
+      "description": "Scenic hiking destination with panoramic views",
+      "best_time": "December to March",
+      "duration": "4-5 hours",
+      "entrance_fee": 0,
+      "coordinates": {
+        "lat": 6.8667,
+        "lng": 81.05
+      },
+      "activities": [
+        "Hiking",
+        "Photography",
+        "Nature Walks"
+      ],
+      "nearby_hotels": [
+        "98 Acres Resort",
+        "Ella Jungle Resort",
+        "Dream Cafe"
+      ],
+      "rating": 4.5,
+      "visitor_count_yearly": 200000
+    },
+    {
+      "name": "Nine Arch Bridge",
+      "district": "Badulla",
+      "province": "Uva",
+      "type": "Bridge",
+      "category": "Historical",
+      "description": "Iconic railway bridge surrounded by tea plantations",
+      "best_time": "Year round",
+      "duration": "1-2 hours",
+      "entrance_fee": 0,
+      "coordinates": {
+        "lat": 6.8731,
+        "lng": 81.0594
+      },
+      "activities": [
+        "Photography",
+        "Train Spotting",
+        "Walking"
+      ],
+      "nearby_hotels": [
+        "Ella Mount Heaven",
+        "Zion View Ella Green Retreat",
+        "Sky Green Hotel"
+      ],
+      "rating": 4.3,
+      "visitor_count_yearly": 180000
+    },
+    {
+      "name": "Pinnawala Elephant Orphanage",
+      "district": "Kegalle",
+      "province": "Sabaragamuwa",
+      "type": "Wildlife Sanctuary",
+      "category": "Wildlife",
+      "description": "Elephant orphanage and breeding ground",
+      "best_time": "Year round",
+      "duration": "3-4 hours",
+      "entrance_fee": 2500,
+      "coordinates": {
+        "lat": 7.2989,
+        "lng": 80.3889
+      },
+      "activities": [
+        "Elephant Watching",
+        "Feeding",
+        "Photography"
+      ],
+      "nearby_hotels": [
+        "Elephant Bay Hotel",
+        "Rest House Pinnawala",
+        "Hotel Elephant Park"
+      ],
+      "rating": 4.1,
+      "visitor_count_yearly": 300000
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Shangri-La Hotel Colombo",
+      "district": "Colombo",
+      "province": "Western",
+      "category": "Luxury",
+      "star_rating": 5,
+      "price_range": "15000-25000",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Gym",
+        "Restaurant",
+        "Bar",
+        "WiFi",
+        "AC",
+        "Room Service"
+      ],
+      "room_types": [
+        "Standard",
+        "Deluxe",
+        "Suite",
+        "Presidential Suite"
+      ],
+      "coordinates": {
+        "lat": 6.9271,
+        "lng": 79.8612
+      },
+      "contact": "+94112441000",
+      "rating": 4.6,
+      "total_rooms": 500,
+      "booking_sites": [
+        "Booking.com",
+        "Agoda",
+        "Hotels.com"
+      ]
+    },
+    {
+      "name": "Galle Face Hotel",
+      "district": "Colombo",
+      "province": "Western",
+      "category": "Heritage Luxury",
+      "star_rating": 5,
+      "price_range": "12000-22000",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Restaurant",
+        "Bar",
+        "WiFi",
+        "AC",
+        "Sea View"
+      ],
+      "room_types": [
+        "Classic",
+        "Deluxe",
+        "Suite",
+        "Regency Club"
+      ],
+      "coordinates": {
+        "lat": 6.9271,
+        "lng": 79.8477
+      },
+      "contact": "+94112541010",
+      "rating": 4.4,
+      "total_rooms": 220,
+      "booking_sites": [
+        "Direct",
+        "Booking.com",
+        "Expedia"
+      ]
+    },
+    {
+      "name": "Cinnamon Grand Colombo",
+      "district": "Colombo",
+      "province": "Western",
+      "category": "Luxury",
+      "star_rating": 5,
+      "price_range": "10000-18000",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Gym",
+        "Multiple Restaurants",
+        "Bar",
+        "WiFi",
+        "AC"
+      ],
+      "room_types": [
+        "Superior",
+        "Deluxe",
+        "Club",
+        "Suite"
+      ],
+      "coordinates": {
+        "lat": 6.9147,
+        "lng": 79.8757
+      },
+      "contact": "+94112497973",
+      "rating": 4.3,
+      "total_rooms": 501,
+      "booking_sites": [
+        "Cinnamon Hotels",
+        "Booking.com",
+        "Agoda"
+      ]
+    },
+    {
+      "name": "The Kandy House",
+      "district": "Kandy",
+      "province": "Central",
+      "category": "Boutique",
+      "star_rating": 4,
+      "price_range": "8000-15000",
+      "amenities": [
+        "Pool",
+        "Restaurant",
+        "Bar",
+        "WiFi",
+        "AC",
+        "Garden"
+      ],
+      "room_types": [
+        "Superior",
+        "Deluxe",
+        "Suite"
+      ],
+      "coordinates": {
+        "lat": 7.2481,
+        "lng": 80.5897
+      },
+      "contact": "+94812233521",
+      "rating": 4.5,
+      "total_rooms": 9,
+      "booking_sites": [
+        "Direct",
+        "Small Luxury Hotels",
+        "Booking.com"
+      ]
+    },
+    {
+      "name": "98 Acres Resort and Spa",
+      "district": "Badulla",
+      "province": "Uva",
+      "category": "Resort",
+      "star_rating": 4,
+      "price_range": "6000-12000",
+      "amenities": [
+        "Spa",
+        "Restaurant",
+        "Bar",
+        "WiFi",
+        "Mountain View",
+        "Tea Plantation"
+      ],
+      "room_types": [
+        "Deluxe",
+        "Premium",
+        "Suite"
+      ],
+      "coordinates": {
+        "lat": 6.8719,
+        "lng": 81.0461
+      },
+      "contact": "+94552050050",
+      "rating": 4.4,
+      "total_rooms": 30,
+      "booking_sites": [
+        "Direct",
+        "Booking.com",
+        "Agoda"
+      ]
+    },
+    {
+      "name": "Clock Inn Colombo",
+      "district": "Colombo",
+      "province": "Western",
+      "category": "Budget",
+      "star_rating": 3,
+      "price_range": "2000-4000",
+      "amenities": [
+        "WiFi",
+        "AC",
+        "Restaurant",
+        "Laundry"
+      ],
+      "room_types": [
+        "Standard",
+        "Deluxe"
+      ],
+      "coordinates": {
+        "lat": 6.9271,
+        "lng": 79.8612
+      },
+      "contact": "+94112574774",
+      "rating": 4.0,
+      "total_rooms": 60,
+      "booking_sites": [
+        "Booking.com",
+        "Agoda",
+        "Hotels.com"
+      ]
+    },
+    {
+      "name": "Backpack Lanka",
+      "district": "Kandy",
+      "province": "Central",
+      "category": "Hostel",
+      "star_rating": 2,
+      "price_range": "800-2000",
+      "amenities": [
+        "WiFi",
+        "Shared Kitchen",
+        "Common Area",
+        "Lockers"
+      ],
+      "room_types": [
+        "Dorm",
+        "Private"
+      ],
+      "coordinates": {
+        "lat": 7.2906,
+        "lng": 80.6337
+      },
+      "contact": "+94812223344",
+      "rating": 3.8,
+      "total_rooms": 20,
+      "booking_sites": [
+        "Hostelworld",
+        "Booking.com"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "type": "Air",
+      "operator": "SriLankan Airlines",
+      "category": "Domestic",
+      "routes": [
+        {
+          "from": "Colombo",
+          "to": "Jaffna",
+          "duration": 80,
+          "price": 12000
+        }
+      ],
+      "contact": "+94197733000",
+      "booking": "Online, Agents"
+    },
+    {
+      "type": "Train",
+      "operator": "Sri Lanka Railways",
+      "category": "Scenic",
+      "routes": [
+        {
+          "from": "Colombo",
+          "to": "Kandy",
+          "duration": 180,
+          "price": 300
+        },
+        {
+          "from": "Kandy",
+          "to": "Ella",
+          "duration": 420,
+          "price": 400
+        },
+        {
+          "from": "Colombo",
+          "to": "Galle",
+          "duration": 150,
+          "price": 250
+        }
+      ],
+      "contact": "+94112434215",
+      "booking": "Station, Online"
+    },
+    {
+      "type": "Bus",
+      "operator": "SLTB",
+      "category": "Public",
+      "routes": [
+        {
+          "from": "Colombo",
+          "to": "Kandy",
+          "duration": 180,
+          "price": 150
+        },
+        {
+          "from": "Colombo",
+          "to": "Galle",
+          "duration": 120,
+          "price": 120
+        }
+      ],
+      "contact": "+94112588979",
+      "booking": "Cash on board"
+    },
+    {
+      "type": "Taxi",
+      "operator": "PickMe",
+      "category": "App-based",
+      "routes": [
+        {
+          "coverage": "Island-wide",
+          "pricing": "Meter-based"
+        }
+      ],
+      "contact": "App",
+      "booking": "Mobile App"
+    },
+    {
+      "type": "Tuk-tuk",
+      "operator": "Local",
+      "category": "Traditional",
+      "routes": [
+        {
+          "coverage": "Short distances",
+          "pricing": "Negotiable"
+        }
+      ],
+      "contact": "Street hail",
+      "booking": "Direct"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Ministry of Crab",
+      "district": "Colombo",
+      "province": "Western",
+      "cuisine": "Seafood",
+      "category": "Fine Dining",
+      "price_range": "3000-8000",
+      "specialties": [
+        "Pepper Crab",
+        "Butter Pepper Garlic Crab",
+        "Lobster"
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "lat": 6.9271,
+        "lng": 79.8477
+      },
+      "contact": "+94115234722",
+      "opening_hours": "12:00-15:00, 18:30-23:30"
+    },
+    {
+      "name": "The Lagoon",
+      "district": "Colombo",
+      "province": "Western",
+      "cuisine": "International",
+      "category": "Fine Dining",
+      "price_range": "2500-6000",
+      "specialties": [
+        "Fresh Seafood",
+        "International Cuisine",
+        "Wine Selection"
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "lat": 6.9271,
+        "lng": 79.8612
+      },
+      "contact": "+94112441000",
+      "opening_hours": "19:00-23:30"
+    },
+    {
+      "name": "Upali's by Nawaloka",
+      "district": "Colombo",
+      "province": "Western",
+      "cuisine": "Sri Lankan",
+      "category": "Local",
+      "price_range": "800-2000",
+      "specialties": [
+        "Rice & Curry",
+        "Hoppers",
+        "Kottu"
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "lat": 6.9147,
+        "lng": 79.8757
+      },
+      "contact": "+94112575757",
+      "opening_hours": "11:00-22:00"
+    },
+    {
+      "name": "The Hill Club",
+      "district": "Nuwara Eliya",
+      "province": "Central",
+      "cuisine": "Continental",
+      "category": "Heritage",
+      "price_range": "1500-3500",
+      "specialties": [
+        "English Breakfast",
+        "High Tea",
+        "Colonial Cuisine"
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "lat": 6.9497,
+        "lng": 80.7891
+      },
+      "contact": "+94522222653",
+      "opening_hours": "07:00-22:00"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Whale Watching",
+      "location": "Mirissa",
+      "district": "Matara",
+      "category": "Wildlife",
+      "duration": "4-5 hours",
+      "price": 3500,
+      "season": "November to April",
+      "best_time": "06:00-11:00",
+      "description": "Spot blue whales and dolphins in their natural habitat",
+      "operator": "Mirissa Water Sports",
+      "rating": 4.4
+    },
+    {
+      "name": "White Water Rafting",
+      "location": "Kitulgala",
+      "district": "Kegalle",
+      "category": "Adventure",
+      "duration": "3-4 hours",
+      "price": 2500,
+      "season": "Year round",
+      "best_time": "09:00-15:00",
+      "description": "Thrilling rafting experience on Kelani River",
+      "operator": "Adventure Sports Lanka",
+      "rating": 4.3
+    },
+    {
+      "name": "Tea Factory Tour",
+      "location": "Nuwara Eliya",
+      "district": "Nuwara Eliya",
+      "category": "Cultural",
+      "duration": "2-3 hours",
+      "price": 1000,
+      "season": "Year round",
+      "best_time": "09:00-16:00",
+      "description": "Learn about Ceylon tea production process",
+      "operator": "Pedro Tea Estate",
+      "rating": 4.2
+    },
+    {
+      "name": "Spice Garden Tour",
+      "location": "Matale",
+      "district": "Matale",
+      "category": "Educational",
+      "duration": "1-2 hours",
+      "price": 500,
+      "season": "Year round",
+      "best_time": "08:00-17:00",
+      "description": "Discover Sri Lankan spices and their uses",
+      "operator": "Euphoria Spice & Herbal",
+      "rating": 4.0
+    },
+    {
+      "name": "Cultural Dance Show",
+      "location": "Kandy",
+      "district": "Kandy",
+      "category": "Cultural",
+      "duration": "1 hour",
+      "price": 1000,
+      "season": "Year round",
+      "best_time": "19:30-20:30",
+      "description": "Traditional Kandyan dance performance",
+      "operator": "Kandy Cultural Centre",
+      "rating": 4.1
+    }
+  ],
+  "weather": [
+    {
+      "region": "Western Province",
+      "season": "Dry Season",
+      "months": "December-March",
+      "temperature_range": "24-32\u00b0C",
+      "rainfall": "Low",
+      "humidity": "70-80%",
+      "conditions": "Sunny and dry, ideal for beach activities"
+    },
+    {
+      "region": "Western Province",
+      "season": "Wet Season",
+      "months": "April-November",
+      "temperature_range": "24-30\u00b0C",
+      "rainfall": "High",
+      "humidity": "80-90%",
+      "conditions": "Heavy rainfall, especially May and October"
+    },
+    {
+      "region": "Central Province",
+      "season": "Cool Season",
+      "months": "December-February",
+      "temperature_range": "16-24\u00b0C",
+      "rainfall": "Moderate",
+      "humidity": "70-80%",
+      "conditions": "Cool and pleasant, perfect for hill country"
+    },
+    {
+      "region": "Hill Country",
+      "season": "Year Round",
+      "months": "All year",
+      "temperature_range": "10-20\u00b0C",
+      "rainfall": "Variable",
+      "humidity": "80-90%",
+      "conditions": "Cool climate, can be misty in mornings"
+    }
+  ],
+  "cultural_info": [
+    {
+      "category": "Religion",
+      "topic": "Buddhism",
+      "description": "70% of population follows Buddhism. Remove shoes and hats when entering temples.",
+      "do": "Dress modestly, be respectful",
+      "dont": "Point feet towards Buddha statues"
+    },
+    {
+      "category": "Greetings",
+      "topic": "Ayubowan",
+      "description": "Traditional Sinhala greeting meaning 'may you live long'",
+      "do": "Use respectful greetings",
+      "dont": "Use overly casual greetings with elders"
+    },
+    {
+      "category": "Dress Code",
+      "topic": "Temple Visits",
+      "description": "Conservative dress required for religious sites",
+      "do": "Cover shoulders and knees",
+      "dont": "Wear revealing clothing"
+    },
+    {
+      "category": "Photography",
+      "topic": "Buddha Statues",
+      "description": "Be respectful when photographing religious sites",
+      "do": "Ask permission when appropriate",
+      "dont": "Pose inappropriately with statues"
+    }
+  ],
+  "packages": [
+    {
+      "name": "Cultural Triangle Tour",
+      "duration": "5 days",
+      "price": 45000,
+      "destinations": [
+        "Sigiriya",
+        "Polonnaruwa",
+        "Dambulla",
+        "Kandy"
+      ],
+      "includes": [
+        "Accommodation",
+        "Transportation",
+        "Guide",
+        "Entrance Fees"
+      ],
+      "category": "Cultural",
+      "group_size": "2-15 people",
+      "operator": "Sri Lanka Tours",
+      "rating": 4.5
+    },
+    {
+      "name": "Hill Country Adventure",
+      "duration": "7 days",
+      "price": 65000,
+      "destinations": [
+        "Kandy",
+        "Nuwara Eliya",
+        "Ella",
+        "Horton Plains"
+      ],
+      "includes": [
+        "Hotels",
+        "Train rides",
+        "Meals",
+        "Activities"
+      ],
+      "category": "Nature",
+      "group_size": "2-12 people",
+      "operator": "Ceylon Adventures",
+      "rating": 4.4
+    },
+    {
+      "name": "Beach & Wildlife",
+      "duration": "8 days",
+      "price": 75000,
+      "destinations": [
+        "Galle",
+        "Unawatuna",
+        "Yala",
+        "Mirissa"
+      ],
+      "includes": [
+        "Beach hotels",
+        "Safari",
+        "Whale watching",
+        "Meals"
+      ],
+      "category": "Beach & Wildlife",
+      "group_size": "2-10 people",
+      "operator": "Island Escapes",
+      "rating": 4.3
+    }
+  ],
+  "practical_info": [
+    {
+      "category": "Currency",
+      "topic": "Sri Lankan Rupee (LKR)",
+      "details": "Exchange rate varies. USD widely accepted in tourist areas."
+    },
+    {
+      "category": "Language",
+      "topic": "Official Languages",
+      "details": "Sinhala and Tamil are official. English widely spoken in tourist areas."
+    },
+    {
+      "category": "Visa",
+      "topic": "Tourist Visa",
+      "details": "ETA required for most countries. 30-day tourist visa available online."
+    },
+    {
+      "category": "Health",
+      "topic": "Vaccinations",
+      "details": "No mandatory vaccines. Hepatitis A/B and Typhoid recommended."
+    },
+    {
+      "category": "Safety",
+      "topic": "General Safety",
+      "details": "Generally safe for tourists. Normal precautions advised."
+    }
+  ]
+}

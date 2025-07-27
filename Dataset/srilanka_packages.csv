@@ -1,0 +1,4 @@
+name,duration,price,destinations,includes,category,group_size,operator,rating
+Cultural Triangle Tour,5 days,45000,"['Sigiriya', 'Polonnaruwa', 'Dambulla', 'Kandy']","['Accommodation', 'Transportation', 'Guide', 'Entrance Fees']",Cultural,2-15 people,Sri Lanka Tours,4.5
+Hill Country Adventure,7 days,65000,"['Kandy', 'Nuwara Eliya', 'Ella', 'Horton Plains']","['Hotels', 'Train rides', 'Meals', 'Activities']",Nature,2-12 people,Ceylon Adventures,4.4
+Beach & Wildlife,8 days,75000,"['Galle', 'Unawatuna', 'Yala', 'Mirissa']","['Beach hotels', 'Safari', 'Whale watching', 'Meals']",Beach & Wildlife,2-10 people,Island Escapes,4.3
